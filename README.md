@@ -16,7 +16,7 @@
 ### 🚀 About Me:
 - 🖥️ Backend developer passionate about building scalable and efficient applications.
 - 📚 Learning DevOps to master server deployments and automation.
-- 🐧 Linux enthusiast, always exploring new tools and workflows.
+- 🐧 MacOS and Linux enthusiast, always exploring new tools and workflows.
 - ⚡ Interested in cloud computing, CI/CD, and system architecture.
 
 ### 📫 Contact Me:
