@@ -2,6 +2,15 @@
 
 🐍 Python · FastAPI · Litestar
 
+> trying to code every day, stats below
+
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qu1nqqy&theme=react-dark)
+
+### 📬 Contact me
+You can reach me via  
+- Telegram — https://t.me/baikalboi  
+- Email — ilya@qu1nqqy.ru
+
 ### 🔭 Currently working on
 - FastAPI backend with clean architecture & SOLID principles
 - Dockerized infrastructure (Nginx, MinIO, PostgreSQL)
@@ -12,12 +21,6 @@
 - **Telegram bots** - profile and routine automation
 - **Educational projects** - MTUCI stuff
 - **Private / NDA projects**
-
-
-> trying to code every day, stats below
-
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qu1nqqy&theme=react-dark)
-
 
 ### 📚 Learning
 - Networking fundamentals
