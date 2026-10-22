@@ -1,4 +1,4 @@
-*20 y.o. backend dev · happy kitty*
+*21 y.o. backend dev · happy kitty*
 
 🐍 Python · FastAPI · Litestar
 
